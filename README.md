@@ -2,6 +2,6 @@
 Smartcopilot file for Embraer 110 Bandeirantes - Shared Cockpit
 
 Created by:
-- Fernando Cardoso
+- Fernando Novello
 - Cleverson Chiavegatti
 - Bruno Brittz
